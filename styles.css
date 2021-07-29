@@ -62,17 +62,18 @@ body {
     padding: 1.8rem;
 }
 
-.join-card h2 {
+.join-card h1 {
     color: var(--color-cyan);
+    font-size: 28px;
     margin-bottom: 1.8rem;
 }
 
-.join-card h3 {
+.join-card h2 {
     font-size: 20px;
     margin-bottom: 1rem;
 }
 
-.join-card button, h2, h3 {
+.join-card button, h1, h2 {
     font-weight: 700;
 }
 
@@ -83,7 +84,7 @@ body {
     padding-bottom: 2.3rem;
 }
 
-.join-header h3 {
+.join-header h2 {
     color: var(--color-bright-yellow);
     margin-bottom: 1.2rem;
 }
@@ -150,7 +151,7 @@ body {
         padding-right: 3.5rem;
     }
 
-    .join-header h3 {
+    .join-header h2 {
         margin-bottom: 0.8rem;
     }
     
